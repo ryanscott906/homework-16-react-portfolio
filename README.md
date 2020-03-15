@@ -1,1 +1,1 @@
-# homework-16-react-portfolio
+This is an attempt to remake a portfolio site using React components instead of the previous HTML based approach. While it does manage to contain a few navigation links, the style/CSS urgently needs to be made better. 
